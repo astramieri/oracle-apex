@@ -34,8 +34,24 @@ Oracle APEX uses a simple three-tier architecture:
 
 All processing, data manipulation and business logic is executed within the database.
 
-![APEX Architecture](images/apex_architecture.jpg)
+![APEX Architecture](../images/apex_architecture.jpg)
 
 This architecture garantees zero latency data access, top performance and scalability out of-the-box.
 
 Oracle APEX can be deployed wherever Oracle Database Runs (Oracle Cloud, Dedicated Region, Third Party, On-Premises).
+
+## APEX capabilities
+
+- User Interface 
+- Data 
+- Visualization
+- Security
+- Globalization
+- Monitoring
+
+## APEX Uses Cases
+
+- Transform Spreadsheet into Web Apps
+- Rapid Application Development
+- Modernizing Oracle Forms Applications
+- Extending Enterprise System
