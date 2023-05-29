@@ -4,8 +4,6 @@
 
 It is used to create an application composed of a set of HTML pages and based on database objects.
 
-
-
 ## SQL Workshop
 
 It is used to access tools for viewing and managing database objects.
