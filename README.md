@@ -7,3 +7,5 @@ Note-taking repository for Oracle APEX
 - [Oracle Application Express (APEX)](docs/apex.md)  
 	- [APEX Product Components](docs/apex_components.md)  
 	- [APEX GitHub Repository](https://github.com/oracle/apex)
+
+
