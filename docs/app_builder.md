@@ -65,3 +65,4 @@ Structure:
 Example:
 
 	https://example.com:8080/ords/r/mycompany/hr-app/update-employees?session=13766599855150
+
