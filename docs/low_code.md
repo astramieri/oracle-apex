@@ -1,4 +1,3 @@
- 
 # Low Code Application Development
 
 ## Application Development in the Enterprise

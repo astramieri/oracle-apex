@@ -12,6 +12,8 @@
 
 [APEX Product Components](docs/apex_product.md)  
 - [APP Builder](docs/app_builder.md)
+	- [Page Components](doc/page_components)
+	- [Page Designer](doc/page_designer)
 - [SQL Workshop](docs/sql_workshop.md)
 - [Team Development](docs/team_dev.md)
 
