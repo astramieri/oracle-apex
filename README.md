@@ -22,3 +22,5 @@
 [APEX GitHub Repository](docs/apex_github.md)
 
 [APEX World](https://apex.world/ords/f?p=100)
+
+[APEX Starter Online Shopping App](https://oracle.github.io/learning-library/developer-library/apex/shopping-cart/workshops/freetier/?lab=intro)
