@@ -8,16 +8,19 @@
 
 ## Oracle APEX Product Components
 
-[APEX Sitemap](doc/sitemap.md)  
-
 [APEX Product Components](docs/apex_product.md)  
 - [APP Builder](docs/app_builder.md)
 	- [Page Components](doc/page_components)
 	- [Page Designer](doc/page_designer)
 - [SQL Workshop](docs/sql_workshop.md)
 - [Team Development](docs/team_dev.md)
+- [Gallery](docs/gallery.md)
+
+[APEX Reports](docs/reports.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
+
+[APEX Sitemap](doc/sitemap.md)  
 
 ## Useful Links
 
