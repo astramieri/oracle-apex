@@ -17,6 +17,7 @@
 - [Gallery](docs/gallery.md)
 
 [APEX Reports](docs/reports.md)
+- [Interactive Reports](docs/interactive_reports.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
 
