@@ -18,6 +18,7 @@
 
 [APEX Reports](docs/reports.md)
 - [Interactive Reports](docs/interactive_reports.md)
+- [Interactive Grid](docs/interactive_grid.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
 
