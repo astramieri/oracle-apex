@@ -21,7 +21,8 @@
 - [Interactive Grid](docs/interactive_grid.md)
 
 [APEX Page Controls](docs/page_controls.md)
-- [List of Values (LOV)](docs/lov.md)
+- [Lists of Values (LOV)](docs/lists_of_values.md)
+- [Buttons](docs/buttons.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
 
