@@ -20,6 +20,8 @@
 - [Interactive Reports](docs/interactive_reports.md)
 - [Interactive Grid](docs/interactive_grid.md)
 
+[APEX Page Controls](docs/page_controls.md)
+
 [APEX Progressive Web App](doc/apex_pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
