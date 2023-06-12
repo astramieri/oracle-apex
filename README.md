@@ -24,6 +24,8 @@
 - [Lists of Values (LOV)](docs/lists_of_values.md)
 - [Buttons](docs/buttons.md)
 
+[APEX Page Enhancing](docs/page_enhancing.md)
+
 [APEX Progressive Web App](doc/apex_pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
