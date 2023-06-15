@@ -19,6 +19,7 @@
 [APEX Reports](docs/reports.md)
 - [Interactive Reports](docs/interactive_reports.md)
 - [Interactive Grid](docs/interactive_grid.md)
+- [Faceted Search](docs/faceted_search.md)
 
 [APEX Page Controls](docs/page_controls.md)
 - [Lists of Values (LOV)](docs/lists_of_values.md)
