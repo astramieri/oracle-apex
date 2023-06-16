@@ -26,6 +26,8 @@
 
 [APEX Page Enhancing](docs/page_enhancing.md)
 
+[APEX Forms](docs/forms.md)
+
 [APEX Progressive Web App](doc/apex_pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
