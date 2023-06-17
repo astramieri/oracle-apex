@@ -12,6 +12,6 @@ You can create a form:
 - using the **Form Region** in **Page Designer**
 
 Developers can create three basic form types:
-1. basic form
-2. editable interactive grid
-3. master detail
+1. (basic) form
+2. interactive grid
+3. master detail (stacked, syde-by-side, drill-down)
