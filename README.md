@@ -33,7 +33,8 @@
 
 [APEX Shared Components](docs/shared_components.md)
 
-[APEX Themes](docs/themese.md)
+[APEX Themes](docs/themes.md)
+- [Theme Styles](docs/theme_styles.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
 
