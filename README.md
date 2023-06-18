@@ -35,6 +35,7 @@
 
 [APEX Themes](docs/themes.md)
 - [Theme Styles](docs/theme_styles.md)
+- [Templates](docs/templates.md)
 
 [APEX Progressive Web App](doc/apex_pwa.md)
 
