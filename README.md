@@ -49,6 +49,8 @@
 
 [APEX Approvals](docs/approvals.md)
 
+[APEX Sending Emails](docs/emails.md)
+
 ## Useful Links
 
 [APEX GitHub Repository](docs/github.md)
