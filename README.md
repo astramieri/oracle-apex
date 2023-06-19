@@ -8,7 +8,7 @@
 
 ## Oracle APEX Product Components
 
-[APEX Product Components](docs/apex_product.md)  
+[APEX Product Components](docs/components.md)  
 - [APP Builder](docs/app_builder.md)
 	- [Page Components](doc/page_components)
 	- [Page Designer](doc/page_designer)
@@ -23,13 +23,13 @@
 - [Smart Filters](docs/smart_filters.md)
 - [Cards](docs/cards.md)
 
+[APEX Forms](docs/forms.md)
+
 [APEX Page Controls](docs/page_controls.md)
 - [Lists of Values (LOV)](docs/lists_of_values.md)
 - [Buttons](docs/buttons.md)
 
 [APEX Page Enhancing](docs/page_enhancing.md)
-
-[APEX Forms](docs/forms.md)
 
 [APEX Shared Components](docs/shared_components.md)
 
@@ -37,15 +37,19 @@
 - [Theme Styles](docs/theme_styles.md)
 - [Templates](docs/templates.md)
 
-[APEX Plugins](docs/plugins.md)
-
-[APEX Progressive Web App](doc/apex_pwa.md)
+[APEX Progressive Web App (PWA)](doc/pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
 
+## APEX Extended Capabilities
+
+[APEX Plugins](docs/plugins.md)
+
+[APEX Automations](docs/automations.md)
+
 ## Useful Links
 
-[APEX GitHub Repository](docs/apex_github.md)
+[APEX GitHub Repository](docs/github.md)
 
 [APEX World](https://apex.world/ords/f?p=100)
 
