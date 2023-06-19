@@ -47,6 +47,8 @@
 
 [APEX Automations](docs/automations.md)
 
+[APEX Approvals](docs/approvals.md)
+
 ## Useful Links
 
 [APEX GitHub Repository](docs/github.md)
