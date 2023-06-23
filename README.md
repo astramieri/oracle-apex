@@ -37,6 +37,8 @@
 - [Theme Styles](docs/theme_styles.md)
 - [Templates](docs/templates.md)
 
+[APEX Data Loading](docs/data_loading.md)
+
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
