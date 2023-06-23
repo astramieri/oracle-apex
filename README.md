@@ -38,6 +38,7 @@
 - [Templates](docs/templates.md)
 
 [APEX Data Loading](docs/data_loading.md)
+- [Collections](docs/collections.md)
 
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
