@@ -20,3 +20,10 @@ The REST enabled SQL service is available with a URL in the following format
 
 	http://host:port/ords/schema
 
+
+## Links
+
+[Oracle REST Data Services Quick Start Guide](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/23.1/qsord/get-started-with-oracle-rest-data-services.html#GUID-0CE142F6-2252-4099-ADF4-BD61FACAFF9D)
+
+[Enabling REST services for Autonomous Database](https://cloudness.net/enable-ords-oracle-autonomous-database/)
+
