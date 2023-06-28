@@ -40,6 +40,7 @@
 [APEX Data Loading](docs/data_loading.md)
 - [Collections](docs/collections.md)
 - [REST Enabled SQL Reference](docs/rest_enabled_sql.md)
+- [REST Data Sources](docs/rest_data_sources.sql)
 
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
