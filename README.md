@@ -42,6 +42,9 @@
 - [REST Enabled SQL Reference](docs/rest_enabled_sql.md)
 - [REST Data Sources](docs/rest_data_sources.sql)
 
+[APEX Security](docs/security.md)
+- [Authentication](docs/authentication.md)
+
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
 [APEX Sitemap](doc/sitemap.md)  
