@@ -44,6 +44,7 @@
 
 [APEX Security](docs/security.md)
 - [Authentication](docs/authentication.md)
+- [Authorization](docs/authorization.md)
 
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
