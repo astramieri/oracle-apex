@@ -23,9 +23,11 @@
 - [Smart Filters](docs/smart_filters.md)
 - [Cards](docs/cards.md)
 
-[APEX Forms](docs/forms.md)
-
-[APEX Charts](docs/charts.md)
+[APEX Page Types](docs/page_types.md)
+- [APEX Forms](docs/forms.md)
+- [APEX Charts](docs/charts.md)
+- [APEX Calendars](docs/calendars.md)
+- [APEX Trees](docs/trees.md)
 
 [APEX Page Controls](docs/page_controls.md)
 - [Lists of Values (LOV)](docs/lists_of_values.md)
