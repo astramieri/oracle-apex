@@ -25,6 +25,8 @@
 
 [APEX Forms](docs/forms.md)
 
+[APEX Charts](docs/charts.md)
+
 [APEX Page Controls](docs/page_controls.md)
 - [Lists of Values (LOV)](docs/lists_of_values.md)
 - [Buttons](docs/buttons.md)
