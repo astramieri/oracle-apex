@@ -28,6 +28,7 @@
 - [APEX Charts](docs/charts.md)
 - [APEX Calendars](docs/calendars.md)
 - [APEX Trees](docs/trees.md)
+- [APEX Maps](docs/maps.md)
 
 [APEX Page Controls](docs/page_controls.md)
 - [Lists of Values (LOV)](docs/lists_of_values.md)
