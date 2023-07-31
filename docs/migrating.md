@@ -6,3 +6,5 @@ Along with the application definition, you also need to export the underlying da
 
 **NOTE**: You cannot import an APEX application into an earlier release of APEX. 
 
+As you define applications, pages, regions, items, and so forth, the definitions are saved in various tables defined within the APEX engine schema. When you export an application, a single SQL file is created by extracting the application definitions from the metadata tables. When importing the applications, records are inserted or updated if overwriting an existing application into the APEX metadata tables. Therefore, once an application is imported, all the application definitions can be reviewed from the Application Builder, and the application can be run immediately.
+
