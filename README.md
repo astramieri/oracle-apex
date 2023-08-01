@@ -54,7 +54,7 @@
 
 [APEX Progressive Web App (PWA)](doc/pwa.md)
 
-[Migrating Applications](doc/migrating.md)
+[APEX Migrating Applications](doc/migrating.md)
 
 [APEX Sitemap](doc/sitemap.md)  
 
