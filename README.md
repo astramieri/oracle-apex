@@ -43,9 +43,13 @@
 - [Templates](docs/templates.md)
 
 [APEX Data Loading](docs/data_loading.md)
-- [Collections](docs/collections.md)
-- [REST Enabled SQL Reference](docs/rest_enabled_sql.md)
-- [REST Data Sources](docs/rest_data_sources.sql)
+
+[Collections](docs/collections.md)
+
+[Data Sources](docs/data_sources.md)
+ - [REST Enabled SQL Reference](docs/rest_enabled_sql.md)
+ - [REST Data Sources](docs/rest_data_sources.md)
+ - [REST Synchronization](docs/rest_synchronization.md)
 
 [APEX Security](docs/security.md)
 - [Authentication](docs/authentication.md)
