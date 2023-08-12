@@ -13,7 +13,7 @@ Different types of reports:
 Different ways of creating reports:
 - when you create a new application
 - when you create a new page
-- when you create a new report region
+- when you create a new region
 	- dragging from Gallery
 	- using Rendering Tree Context Menu
 	- using Gallery Context Menu
