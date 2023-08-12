@@ -13,7 +13,7 @@ But before you use APEX mail or any other mailing features of Oracle APEX, you m
 
 When you submit a mail using the APEX_MAIL PL/SQL or any other mailing services available within APEX, the mails are not sent immediately. The mails are first added to a **mail queue**, which are then processed by a separate database job which runs every five minutes.
 
-As an instance administrator, you can manage emails sent from applications by monitoring email messages in the mail queue and mail log by logging into the APEX Administration Services. Using the mail queue, you can push, delete, or reset messages that are-- have to be sent.
+As an instance administrator, you can manage emails sent from applications by monitoring email messages in the mail queue and mail log by logging into the APEX Administration Services. Using the mail queue, you can push, delete, or reset messages that have to be sent.
 
 ## Understanding APEX_MAIL
 
