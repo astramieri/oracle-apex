@@ -10,8 +10,8 @@
 
 [APEX Product Components](docs/components.md)  
 - [APP Builder](docs/app_builder.md)
-	- [Page Components](doc/page_components.md)
-	- [Page Designer](doc/page_designer.md)
+	- [Page Components](docs/page_components.md)
+	- [Page Designer](docs/page_designer.md)
 - [SQL Workshop](docs/sql_workshop.md)
 - [Team Development](docs/team_dev.md)
 - [Gallery](docs/gallery.md)
@@ -56,11 +56,11 @@
 - [Authorization](docs/authorization.md)
 - [Access Control](docs/access_control.md)
 
-[APEX Progressive Web App (PWA)](doc/pwa.md)
+[APEX Progressive Web App (PWA)](docs/pwa.md)
 
-[APEX Migrating Applications](doc/migrating.md)
+[APEX Migrating Applications](docs/migrating.md)
 
-[APEX Sitemap](doc/sitemap.md)  
+[APEX Sitemap](docs/sitemap.md)  
 
 ## APEX Extended Capabilities
 
