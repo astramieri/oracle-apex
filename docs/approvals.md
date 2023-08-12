@@ -2,7 +2,7 @@
 
 The Approvals Component allows Oracle APEX to create tasks for user approval. The APEX Approvals Component is a toolkit for implementing human approvals into your application. 
 
-You can setup task approvals and administrators are design time or determine them dynamically at runtime based on data related to the task.
+You can setup task approvers and administrators at design time or determine them dynamically at runtime based on data related to the task.
 
 ## Building Blocks
 
