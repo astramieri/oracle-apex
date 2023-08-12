@@ -7,7 +7,7 @@ APEX lets you build enterprise apps **20x faster** with **100x less code**.
 APEX is fully supported, *no-cost feature* of Oracle Database. 
 
 APEX can quickly build: 
-- reposts
+- reports
 - forms
 - charts
 - calendars
