@@ -10,8 +10,8 @@
 
 [APEX Product Components](docs/components.md)  
 - [APP Builder](docs/app_builder.md)
-	- [Page Components](doc/page_components)
-	- [Page Designer](doc/page_designer)
+	- [Page Components](doc/page_components.md)
+	- [Page Designer](doc/page_designer.md)
 - [SQL Workshop](docs/sql_workshop.md)
 - [Team Development](docs/team_dev.md)
 - [Gallery](docs/gallery.md)
