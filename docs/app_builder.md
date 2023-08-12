@@ -42,7 +42,7 @@ Universal Theme Advantages:
 
 ## Session State Management
 
-Session state enables developers to store and retireve values for a user as the user navigates between different application pages.
+Session state enables developers to store and retrieve values for a user as the user navigates between different application pages.
 
 APEX transparently maintains session state and provides developers with the ability to get and set session state values from any page in the application.
 
