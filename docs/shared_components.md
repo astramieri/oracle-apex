@@ -12,10 +12,8 @@ Common navigation controls are:
 	
 	You add a list to a page by creating a region and specifying the region type as a list.
 
-	Oracle APEX supports two types of lists:
-	- static lists
-	- dynamic lists (based on SQL query or a PL/SQL function executed at runtime)
-	
+	Oracle APEX supports two types of lists: static lists and dynamic lists (based on SQL query or a PL/SQL function executed at runtime)
+
 - **Navigation Menu**
 	
 	A navigation menu is a list of links that enable users to navigate the pages in an application. Navigation menus are supported only in applications using the **Universal Theme**.
