@@ -13,3 +13,9 @@ As you define applications, pages, regions, items, and so forth, the definitions
 Using a simple wizard, you can now directly export and deploy your application along with the supporting objects into the target system.
 
 From within your development environment, you can deploy your application to the remote production environment. You do not need to directly access your production environment to import this application.
+
+One-click remote application deployment is authenticated through:
+
+- first party authentication (Basic Authentication)
+- schema authentication (database username and password)
+- OAuth 2 Client Credentials.
