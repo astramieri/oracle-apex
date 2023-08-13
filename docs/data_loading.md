@@ -26,3 +26,11 @@ Key Features:
 A Data Loading Page consists of a single page with a Native Data loading page process, which enables users to upload data from a file or copy and paste, preview the data, and then upload the data.
 
 **NOTE**. Data Load Wizard is not designed or intended to load hundreds of thousands of rows of data.
+
+## Data Loading Options
+
+- Easy to use graphical interface
+- Supports CSV, XLSX, TXT, XML or JSON files) or Copy and Paste (supports ONLY comma or tab delimited data)
+- Loads/unloads tables only, one table at a time
+- Access only to schema of logged-in user
+- No data filtering on upload
