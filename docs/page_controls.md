@@ -26,4 +26,4 @@ You can reference item values stored in a session state and regions, computation
 
 Application Items are not associated with the page and therefore, have no user interface properties. You can use an application item as a global variable. 
 
-Application items can be set using computations, processes, or bypassing values on a URL. You use application items to maintain a session state that is not displayed and is not specific to any page.
+Application items can be set using computations, processes, or by passing values on a URL. You use application items to maintain a session state that is not displayed and is not specific to any page.
