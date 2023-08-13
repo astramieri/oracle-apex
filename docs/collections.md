@@ -5,7 +5,7 @@ Collections enable you to store rows and columns currently in the session state 
 Every collection contains a named list of data elements or members, which can have up to:
 - 50 character attributes - VARCHAR2(4000)
 - 5 number attributes
-- 5  data attributes
+- 5 data attributes
 - 1 XML type attribute
 - 1 large binary attribute (BLOB)
 - 1 large character attribute (CLOB). 
