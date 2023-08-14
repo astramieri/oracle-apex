@@ -23,3 +23,11 @@ In APEX you can choose from the following authentication methods:
 7. Oracle Application Server SSO Server
 8. SMAL Sign-In
 9. Social Sign-IN
+
+## How Authentication Works
+
+You determine how your application interacts with users. If all users have the same rights and privileges, they are referred to as public users. However, if your application must track each user individually, you must specify an authentication method.
+
+Authentication establishes the identity of each user who accesses your application. Many authentication processes require that a user provide some type of credentials such as a user name and password. These credentials are then evaluated and they either pass or fail. If the credentials pass, the user has access to the application. Otherwise, access is denied.
+
+Once a user has been identified, the Application Express engine keeps track of each user by setting the value of the built-in substitution string APP_USER. As a user navigates from page to page, the Application Express engine sets the value of **APP_USER** to identify the user. The Application Express engine uses APP_USER as one component of a key for tracking each user's session state.
