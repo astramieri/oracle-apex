@@ -8,8 +8,7 @@ When creating a new facet, you can create the following types:
 
 - Checkbox Group
 - Radio Group
-- Range
 - Input Field
 - Search field
-- Select Lis
+- Select List
 - Range
