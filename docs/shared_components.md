@@ -36,3 +36,5 @@ Common navigation controls are:
 	- Standard
 	- List 
 	- Oracle Text 
+
+	One or more Search Configuration can be configured in a Search Page.
