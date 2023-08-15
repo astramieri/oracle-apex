@@ -13,6 +13,7 @@
 	- [Page Components](docs/page_components.md)
 	- [Page Designer](docs/page_designer.md)
 - [SQL Workshop](docs/sql_workshop.md)
+	- [Quick SQL](docs/quick_sql.md)
 - [Team Development](docs/team_dev.md)
 - [Gallery](docs/gallery.md)
 
