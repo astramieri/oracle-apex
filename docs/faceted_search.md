@@ -12,3 +12,7 @@ When creating a new facet, you can create the following types:
 - Search field
 - Select List
 - Range
+
+## Facet Groups
+
+Data models having multiple flag columns can result in a busy faceted search UI. Flag columns typically display two values such as Yes or No (for example, In Stock, Orderable, and so on). To streamline your faceted search UI, you can create a facet group which displays one facet that contains multiple checkboxes.
