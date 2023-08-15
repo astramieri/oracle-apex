@@ -20,6 +20,14 @@ The REST enabled SQL service is available with a URL in the following format
 
 	http://host:port/ords/schema
 
+## Differences between REST Enabled SQL Service References and Database Links
+
+1. Functions at the workspace-level. Developers can create an APEX component with a query on a REST enabled SQL Service but cannot join it to a local table.
+2. Works with JSON over HTTP(s) which makes it easy-to-use it in Cloud environments or over the internet.
+
+## Exporting and Importing REST Enabled SQL Services
+
+When you export an application, used REST Enabled SQL references are added to the export file. If you export an application and import it into another workspace, APEX checks whether the target workspace already contains REST Enabled SQL references with the same static ID. If a REST Enabled SQL reference already exists, the application uses the existing reference. If the reference does not exist, it is created in the target workspace.
 
 ## Links
 
