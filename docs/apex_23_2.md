@@ -31,3 +31,7 @@ Developers can specify task definition parameters to be updatable. This enhancem
 ## Quick SQL Enhancements
 
 Quick SQL has always been the fastest way to create a data model for your APEX application. You type the shorthand syntax for the tables, columns, and constraints you need and it produces a SQL script following best practices that creates them. In 23.2, Quick SQL is now lightning fast. As soon as you pause your typing, it immediately updates the script to reflect your changes.
+
+## Support for Fusion Apps Extensions
+
+Oracle APEX developers can now build rich applications for desktop and mobile devices that access and extend your system of record data in Fusion apps. Developers can query, create, update, and delete any Fusion business object's data using its REST API, including custom objects created in Fusion App Composer. 
