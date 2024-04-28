@@ -27,3 +27,7 @@ The user can choose the operator to filter in the input type facet by tweaking a
 ## Approval Enhancements
 
 Developers can specify task definition parameters to be updatable. This enhancement will allow workflow administrators or task owners only to update and override the task parameter values.
+
+## Quick SQL Enhancements
+
+Quick SQL has always been the fastest way to create a data model for your APEX application. You type the shorthand syntax for the tables, columns, and constraints you need and it produces a SQL script following best practices that creates them. In 23.2, Quick SQL is now lightning fast. As soon as you pause your typing, it immediately updates the script to reflect your changes.
