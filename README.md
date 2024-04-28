@@ -1,12 +1,16 @@
 # Oracle APEX
 
+## What's New in APEX 23.2 ?
+
+[APEX 23.2 new features](docs/apex_23_2.md)  
+
+## Oracle APEX Product Components
+
 [Low Code Application Development](docs/low_code.md)
 
 [Oracle Autonomous Database](docs/auto_db.md)
 
 [Oracle Application Express (APEX)](docs/apex.md)
-
-## Oracle APEX Product Components
 
 [APEX Product Components](docs/components.md)  
 - [APP Builder](docs/app_builder.md)
